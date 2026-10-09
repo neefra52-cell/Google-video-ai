@@ -1,0 +1,7 @@
+{
+  "name": "Veo Studio AI",
+  "description": "Google Video AI Studio para crear videos cinemáticos con sonido a partir de texto e imágenes, con duración ultra-larga personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
